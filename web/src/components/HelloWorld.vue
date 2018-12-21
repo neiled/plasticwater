@@ -38,8 +38,17 @@
           <ul>
             <li>Greenfield Realtime Payments system integrated into legacy codebase</li>
             <li>Designed/Built all new interfaces into core banking system</li>
+            <ul>
+              <li>IBM Websphere, JMS, File, Database</li>
+            </ul>
           </ul>
         </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col">
+        <h1>Contact Me</h1>
+        <p>You can find me as @neiled on most social networks.</p>
       </div>
     </div>
   </div>
